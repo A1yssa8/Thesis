@@ -1,0 +1,1 @@
+{'red liquid': 5, 'blue liquid': 4, 'tip-p20-2': 8}

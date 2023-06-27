@@ -1,0 +1,1 @@
+{'transparent liquid': 5, 'red liquid': 5, 'tip': 8}
